@@ -23,3 +23,13 @@ Framework para la construcción de APIs REST y de Tiempo Real
 - APIs REST éstandards y eficientes |
 - Facilitar la modificación de los datos antes o despues de cada oparacion CRUD |
 - Notificaciones en tiempo real |
+
+---
+# El corazón de Feathers...
+
+---
+
+## Servicios
+- Son objetos javascript o instancias de una clase que implementan ciertos métodos |
+- Proporcionan una interfaz uniforme e independiente del protocolo para interactuar con cualquier tipo de datos |
+
