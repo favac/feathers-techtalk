@@ -33,3 +33,5 @@ Framework para la construcción de APIs REST y de Tiempo Real
 - Son objetos javascript o instancias de una clase que implementan ciertos métodos |
 - Proporcionan una interfaz uniforme e independiente del protocolo para interactuar con cualquier tipo de datos |
 
+---?gist=favac/c50f8fa720b2691e808cdd41ee1cd52e&lang=js
+
