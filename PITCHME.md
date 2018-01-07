@@ -45,9 +45,7 @@ Framework para la construcción de APIs REST y de Tiempo Real
 
 ---?gist=favac/6e30e6956ac6a0ad5ef73fddfffca2f7
 
----
-
----image=https://media.giphy.com/media/LTYT5GTIiAMBa/giphy.gif&size=auto 90%
+---?image=https://media.giphy.com/media/LTYT5GTIiAMBa/giphy.gif&size=auto 90%
 
 ---
 
