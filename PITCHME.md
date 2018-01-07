@@ -1,8 +1,8 @@
----?image=./presentacion/invitacion_feathers.png
+---?image=./presentacion/invitacion_feathers.png&size=auto 90%
 
 ---
 
-![what](https://media.giphy.com/media/fpXxIjftmkk9y/giphy.gif)
+---?image=https://media.giphy.com/media/fpXxIjftmkk9y/giphy.gif&size=auto 90%
 
 ---
 
@@ -51,7 +51,7 @@ Framework para la construcción de APIs REST y de Tiempo Real
 
 ---
 <div>
-<img src="https://media.giphy.com/media/LTYT5GTIiAMBa/giphy.gif" alt="heart">
+<img src="https://media.giphy.com/media/LTYT5GTIiAMBa/giphy.gif" alt="heart" style="height:400px">
 </div> 
 
 ---
