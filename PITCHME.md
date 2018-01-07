@@ -30,10 +30,10 @@ Framework para la construcción de APIs REST y de Tiempo Real
 
 ---
 
-![heart](https://media.giphy.com/media/a3zqvrH40Cdhu/giphy.gif)
+![ok](https://media.giphy.com/media/a3zqvrH40Cdhu/giphy.gif)
 
 --- 
-## El corazón de Feathers...
+# El corazón de Feathers...
 ![heart](https://media.giphy.com/media/1S9kD6xm4601O/giphy.gif)
 
 ---
@@ -49,3 +49,10 @@ Framework para la construcción de APIs REST y de Tiempo Real
 
 ---?gist=favac/6e30e6956ac6a0ad5ef73fddfffca2f7
 
+---
+
+![heart](https://media.giphy.com/media/LTYT5GTIiAMBa/giphy.gif)
+
+---
+
+# Veamos algo de Código!
