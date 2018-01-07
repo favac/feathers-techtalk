@@ -28,7 +28,7 @@ Framework para la construcción de APIs REST y de Tiempo Real
 
 ---
 
----?image:https://media.giphy.com/media/a3zqvrH40Cdhu/giphy.gif&size=auto 90%
+---?image=https://media.giphy.com/media/a3zqvrH40Cdhu/giphy.gif&size=auto 90%
 
 --- 
 ## El corazón de Feathers...
@@ -49,7 +49,7 @@ Framework para la construcción de APIs REST y de Tiempo Real
 
 ---
 
----image:https://media.giphy.com/media/LTYT5GTIiAMBa/giphy.gif&size=auto 90%
+---image=https://media.giphy.com/media/LTYT5GTIiAMBa/giphy.gif&size=auto 90%
 
 ---
 
