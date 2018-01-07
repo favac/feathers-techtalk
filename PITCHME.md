@@ -1,4 +1,4 @@
----?image=presentacion\invitacion_feathers.png
+---?image=./presentacion/invitacion_feathers.png
 
 ---
 
