@@ -35,7 +35,8 @@ Framework para la construcción de APIs REST y de Tiempo Real
 
 ---?gist=favac/c50f8fa720b2691e808cdd41ee1cd52e&lang=js
 
+---
 ## Como usar un servicio
 
---?gist=favac/6e30e6956ac6a0ad5ef73fddfffca2f7
+---?gist=favac/6e30e6956ac6a0ad5ef73fddfffca2f7
 
