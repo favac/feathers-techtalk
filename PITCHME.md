@@ -26,8 +26,6 @@ Framework para la construcción de APIs REST y de Tiempo Real
 - Facilitar la modificación de los datos antes o despues de cada oparacion CRUD |
 - Notificaciones en tiempo real |
 
----
-
 ---?image=https://media.giphy.com/media/a3zqvrH40Cdhu/giphy.gif&size=auto 90%
 
 --- 
