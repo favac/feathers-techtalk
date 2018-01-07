@@ -1,7 +1,5 @@
 ---?image=./presentacion/invitacion_feathers.png&size=auto 90%
 
----
-
 ---?image=https://media.giphy.com/media/fpXxIjftmkk9y/giphy.gif&size=auto 90%
 
 ---
