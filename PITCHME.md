@@ -2,4 +2,4 @@
 
 ---
 
-![Logo Feathers](.\presentacion\feathers-logo-wide.png)
+![Logo Feathers](https://feathersjs.com/img/feathers-logo-wide.png)
