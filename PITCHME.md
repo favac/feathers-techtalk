@@ -1,4 +1,5 @@
----?image=assets/bg.jpg
+[//]: # ![invitacion_feathers](.\presentacion\invitacion_feathers.png)
+---?image=.\presentacion\invitacion_feathers.png
 
 ---
 
