@@ -4,15 +4,15 @@
 
 ![Logo Feathers](https://feathersjs.com/img/feathers-logo-wide.png)
 
-Framework para la construcción de APIs REST y de Tiempo Real |
+Framework para la construcción de APIs REST y de Tiempo Real
 
 ---
 
 ## Construido Sobre
 
-* Node |
-* ExpressJS |
-* Socket IO |
+- Node      |
+- ExpressJS |
+- Socket IO |
 
 ---
 
