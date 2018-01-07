@@ -50,9 +50,14 @@ Framework para la construcción de APIs REST y de Tiempo Real
 ---?gist=favac/6e30e6956ac6a0ad5ef73fddfffca2f7
 
 ---
+<div>
+<img src="https://media.giphy.com/media/LTYT5GTIiAMBa/giphy.gif" alt="heart">
+</div> 
+
+---
 
 ![heart](https://media.giphy.com/media/LTYT5GTIiAMBa/giphy.gif)
 
 ---
 
-# Veamos algo de Código!
+## Veamos como funciona en la vida real!
