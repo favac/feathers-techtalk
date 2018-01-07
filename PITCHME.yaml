@@ -1,1 +1,1 @@
-theme-override : presentacion/presentacion.css
+theme-override : ./presentacion/presentacion.css
