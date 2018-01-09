@@ -62,6 +62,9 @@ Framework para la construcción de APIs REST y de Tiempo Real
 
 ## Adicionemos Autenticación!
 
+Notes: 
+feathers generate authentication
+
 ---?image=https://media.giphy.com/media/12aW6JtfvUdcdO/giphy.gif&size=auto 90%
 
 
