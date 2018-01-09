@@ -62,8 +62,11 @@ Framework para la construcción de APIs REST y de Tiempo Real
 
 ## Adicionemos Autenticación!
 
-Notes: 
+Note: 
 feathers generate authentication
+localhost:3030/users ({email:, password:})
+localhost:3030/authentication({email:, password:, strategy:})
+
 
 ---?image=https://media.giphy.com/media/12aW6JtfvUdcdO/giphy.gif&size=auto 90%
 
