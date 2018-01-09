@@ -50,3 +50,11 @@ Framework para la construcción de APIs REST y de Tiempo Real
 ---
 
 ## Veamos como funciona en la vida real!
+
+---?image=https://media.giphy.com/media/l0MYJnJQ4EiYLxvQ4/giphy.gif&size=auto 90%
+
+## Como llegamos allí?
+
+---?gist=favac/0dbebb28976bd2de3a3088878681eee1
+
+
