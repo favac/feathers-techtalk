@@ -75,3 +75,9 @@ const { authenticate } = require('@feathersjs/authentication').hooks
 authenticate('jwt')
 
 ---?image=https://media.giphy.com/media/l0MYDGA3Du1hBR4xG/giphy.gif&size=auto 90%
+
+---
+
+##Cómo lo hicimios?
+
+---?gist=favac/36f2304f74e158758dc577d1b0cfa662
