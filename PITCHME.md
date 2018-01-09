@@ -63,11 +63,15 @@ Framework para la construcción de APIs REST y de Tiempo Real
 ## Adicionemos Autenticación!
 
 
-
 ---?image=https://media.giphy.com/media/12aW6JtfvUdcdO/giphy.gif&size=auto 90%
 
 Note: 
 feathers generate authentication
-localhost:3030/users ({email:, password:})
-localhost:3030/authentication({email:, password:, strategy:})
+GET localhost:3030/users ({email:, password:})
+POST localhost:3030/authentication({email:, password:, strategy:})
+To get users: key: Authorization
+en hooks
+const { authenticate } = require('@feathersjs/authentication').hooks
+authenticate('jwt')
 
+---?image=https://media.giphy.com/media/l0MYDGA3Du1hBR4xG/giphy.gif&size=auto 90%
